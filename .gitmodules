@@ -1,3 +1,6 @@
 [submodule "php"]
 	path = php
 	url = git@github.com:cuevae/code-katas-php.git
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:cuevae/code-katas-front-end.git
