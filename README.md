@@ -1,1 +1,1 @@
-A collection of Code Katas written in several languages
+A collection of Code Katas written in various languages
