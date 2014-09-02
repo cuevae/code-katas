@@ -4,3 +4,6 @@
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:cuevae/code-katas-front-end.git
+[submodule "unix"]
+	path = unix
+	url = https://github.com/cuevae/code-katas-unix.git
